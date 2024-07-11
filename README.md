@@ -18,14 +18,14 @@ The "Risk Rating Model" sheet evaluates Walmart's financial and business risks u
 - <b>Financial Ratios and Scores: Ratios such as Total Debt/Tangible Net Worth, Funded Debt/EBITDA, and others. </b> 
 - <b>Risk Assessment: Scores for various risk categories, including financial risk, business risk, and industry risk.</b>
 
-<h2>Purpose</h2>
+<h2>Purpose </h2>
 The primary purpose of this project is to provide a comprehensive analysis of Walmart's financial health, focusing on debt and risk assessment. This analysis can be used by financial analysts, investors, and decision-makers to understand Walmart's debt management strategy and identify potential risks.
 <br />
 
-<h2>How to Use This Project</h2>
+<h2>How to Use This Project: </h2>
 - <b>Explore the Yearly Cash Flow: Understand the key assumptions and annual cash flow projections. </b> 
-- <b>Review the Dashboard: Gain quick insights into Walmart's financial performance through visual charts and summary statistics. </b> 
-- <b>Analyze the Risk Rating Model: Assess Walmart's financial and business risks using the detailed risk rating model. </b> 
+- <b>Review the Dashboard: Gain quick insights into Walmart's financial performance through visual charts and summary statistics.</b> 
+- <b>Analyze the Risk Rating Model: Assess Walmart's financial and business risks using the detailed risk rating model.</b> 
 
 <p align="center">
 Launch the utility: <br/>
