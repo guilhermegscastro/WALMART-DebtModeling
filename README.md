@@ -51,7 +51,7 @@ Risk Rating Model: <br/>
 <br />
 
 <h2>Purpose and Conclusion </h2>
-The primary purpose of this project study is to provide a comprehensive analysis of Walmart's financial health, focusing on debt and risk assessment. This analysis alone cannot be used by financial analysts, investors, and decision-makers to understand Walmart's debt management strategy and identify potential risks.
+The primary purpose of this project study is to provide a comprehensive analysis of Walmart's financial health, focusing on debt and risk assessment. THIS ANALYSIS ALONE CANNOT BE USED BY FINANCIAL ANALYSTS, INVESTORS, AND DECISION-MAKERS TO UNDERSTAND WALMART'S FAIR VALUE AND IDENTIFY POTENTIAL RISKS.
 <br />
 
 </p>
