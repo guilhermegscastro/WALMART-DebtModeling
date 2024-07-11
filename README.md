@@ -1,7 +1,7 @@
 <h1>Debt Modeling Project - Walmart</h1>
 
 <h2>Project Overview</h2>
-This project provides an in-depth analysis of Walmart's debt and financial risk over the years 2021 to 2028. It includes detailed cash flow projections, a financial dashboard, covenant analysis and a comprehensive risk rating model. The primary goal of this project is to assess Walmart's financial health and debt management strategy using various financial metrics and assumptions.
+This project study provides an in-depth analysis of Walmart's debt and financial risk over the years 2021 to 2028. It includes detailed cash flow projections, a financial dashboard, covenant analysis and a comprehensive risk rating model. The primary goal of this project is to assess Walmart's financial health and debt management strategy using various financial metrics and assumptions.
 <br />
 
 <h2>Key Components</h2>
