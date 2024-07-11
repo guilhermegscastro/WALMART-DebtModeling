@@ -24,6 +24,11 @@ Existing Debt: <br/>
 Operating Line of Credit: <br/>
 <img src="https://imgur.com/3AyMSSq.png" height="70%" width="70%" alt="Debt Modeling Project for Walmart"/>
 <br />
+- <b>Covenant Analysis: Debt covenants are restrictions that lenders put on lending agreements to limit the actions of the borrower. </b>
+
+Covenant Analysis: <br/>
+<img src="https://imgur.com/hZtjiUO.png" height="70%" width="70%" alt="Debt Modeling Project for Walmart"/>
+<br />
 
 The "Dashboard" sheet provides a visual summary of Walmart's financial performance. Key features include:
 - <b>Net Earnings Waterfall Chart for 2024: A visual representation of the components contributing to net earnings. </b> 
