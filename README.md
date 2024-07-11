@@ -14,6 +14,7 @@ Assumptions: <br/>
 <img src="https://imgur.com/O7otG4s.png" height="70%" width="70%" alt="Debt Modeling Project for Walmart"/>
 <br />
 - <b>Debt Schedules: Debt Forecast, Existing Debt and Operating Line of Credit. </b>
+
 Debt Forecast: <br/>
 <img src="https://imgur.com/oAO9q5y.png" height="70%" width="70%" alt="Debt Modeling Project for Walmart"/>
 <br />
