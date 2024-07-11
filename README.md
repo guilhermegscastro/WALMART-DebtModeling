@@ -47,7 +47,7 @@ The "Risk Rating Model" sheet evaluates Walmart's financial and business risks u
 - <b>Risk Assessment: Scores for various risk categories, including financial risk, business risk, and industry risk.</b>
 
 Risk Rating Model: <br/>
-<img src="https://imgur.com/LHodyCN" height="70%" width="70%" alt="Debt Modeling Project for Walmart"/>
+<img src="https://imgur.com/LHodyCN.png" height="70%" width="70%" alt="Debt Modeling Project for Walmart"/>
 <br />
 
 <h2>Purpose </h2>
