@@ -7,14 +7,21 @@ This project provides an in-depth analysis of Walmart's debt and financial risk 
 <h2>Key Components</h2>
 
 The "Yearly Cash Flow" sheet presents a detailed forecast of Walmart's cash flow from 2021 to 2028. This includes:
-- <b>Income Statement Assumptions: Key assumptions driving the cash flow projections. </b>
-
-  <p align="center">
+- <b>3-Statement Assumptions: Key assumptions driving the cash flow projections. </b>
+- <b>Annual Cash Flow Data: Yearly figures for revenue, expenses, net income, and other key financial metrics.</b>
 Assumptions: <br/>
 <img src="https://imgur.com/O7otG4s.png" height="70%" width="70%" alt="Debt Modeling Project for Walmart"/>
 <br />
-- <b>Annual Cash Flow Data: Yearly figures for revenue, expenses, net income, and other key financial metrics.</b>
-
+- <b>Debt Schedules: Debt Forecast, Existing Debt and Operating Line of Credit. </b>
+Debt Forecast: <br/>
+<img src="https://imgur.com/oAO9q5y.png" height="70%" width="70%" alt="Debt Modeling Project for Walmart"/>
+<br />
+Existing Debt: <br/>
+<img src="https://imgur.com/mgtT5Ax.png" height="70%" width="70%" alt="Debt Modeling Project for Walmart"/>
+<br />
+Operating Line of Credit: <br/>
+<img src="https://imgur.com/3AyMSSq.png" height="70%" width="70%" alt="Debt Modeling Project for Walmart"/>
+<br />
 The "Dashboard" sheet provides a visual summary of Walmart's financial performance. Key features include:
 - <b>Net Earnings Waterfall Chart for 2024: A visual representation of the components contributing to net earnings. </b> 
 - <b>Summary Statistics and Charts: Quick insights into financial health and performance metrics.</b>
