@@ -11,7 +11,7 @@ The "Yearly Cash Flow" sheet presents a detailed forecast of Walmart's cash flow
 
   <p align="center">
 Assumptions: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://imgur.com/O7otG4s)" height="80%" width="80%" alt="Debt Modeling Project for Walmart"/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Debt Modeling Project for Walmart"/>
 <br />
 - <b>Annual Cash Flow Data: Yearly figures for revenue, expenses, net income, and other key financial metrics.</b>
 
