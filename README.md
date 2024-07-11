@@ -1,10 +1,11 @@
-<h1>JWipe - Debt Modeling Project for Walmart</h1>
+<h1>Debt Modeling Project for Walmart</h1>
 
 <h2>Project Overview</h2>
 This project provides an in-depth analysis of Walmart's debt and financial risk over the years 2021 to 2028. It includes detailed cash flow projections, a financial dashboard, and a comprehensive risk rating model. The primary goal of this project is to assess Walmart's financial health and debt management strategy using various financial metrics and assumptions.
 <br />
 
 <h2>Key Components</h2>
+
 The "Yearly Cash Flow" sheet presents a detailed forecast of Walmart's cash flow from 2021 to 2028. This includes:
 - <b>Income Statement Assumptions: Key assumptions driving the cash flow projections. </b> 
 - <b>Annual Cash Flow Data: Yearly figures for revenue, expenses, net income, and other key financial metrics.</b>
