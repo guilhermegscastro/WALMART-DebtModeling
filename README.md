@@ -50,15 +50,9 @@ Risk Rating Model: <br/>
 <img src="https://imgur.com/LHodyCN.png" height="70%" width="70%" alt="Debt Modeling Project for Walmart"/>
 <br />
 
-<h2>Purpose </h2>
-The primary purpose of this project is to provide a comprehensive analysis of Walmart's financial health, focusing on debt and risk assessment. This analysis can be used by financial analysts, investors, and decision-makers to understand Walmart's debt management strategy and identify potential risks.
+<h2>Purpose and Conclusion </h2>
+The primary purpose of this project study is to provide a comprehensive analysis of Walmart's financial health, focusing on debt and risk assessment. This analysis alone cannot be used by financial analysts, investors, and decision-makers to understand Walmart's debt management strategy and identify potential risks.
 <br />
-
-<h2>How to Use This Project </h2>
-
-- <b>Explore the Yearly Cash Flow: Understand the key assumptions and annual cash flow projections. </b> 
-- <b>Review the Dashboard: Gain quick insights into Walmart's financial performance through visual charts and summary statistics.</b> 
-- <b>Analyze the Risk Rating Model: Assess Walmart's financial and business risks using the detailed risk rating model.</b> 
 
 </p>
 
