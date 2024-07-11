@@ -8,6 +8,7 @@ This project provides an in-depth analysis of Walmart's debt and financial risk 
 
 The "Yearly Cash Flow" sheet presents a detailed forecast of Walmart's cash flow from 2021 to 2028. This includes:
 - <b>Income Statement Assumptions: Key assumptions driving the cash flow projections. </b>
+
   <p align="center">
 Assumptions: <br/>
 <img src="[https://i.imgur.com/62TgaWL.png](https://imgur.com/O7otG4s)" height="80%" width="80%" alt="Debt Modeling Project for Walmart"/>
